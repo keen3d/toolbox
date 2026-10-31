@@ -1,6 +1,10 @@
 {
   "categories": [
     {
+      "id": "char",
+      "name": "캐릭터"
+    },
+    {
       "id": "model",
       "name": "모델링 보조"
     },
