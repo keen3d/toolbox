@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "id": "model",
+      "name": "모델링 보조"
+    },
+    {
+      "id": "uv",
+      "name": "UV·텍스처"
+    },
+    {
+      "id": "rig",
+      "name": "리깅·애니메이션"
+    },
+    {
+      "id": "render",
+      "name": "렌더·출력"
+    },
+    {
+      "id": "pipe",
+      "name": "파이프라인·관리"
+    },
+    {
+      "id": "util",
+      "name": "유틸리티"
+    }
+  ]
+}
